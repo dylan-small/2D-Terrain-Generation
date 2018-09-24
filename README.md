@@ -3,3 +3,5 @@
 ```
 java -jar [drag jar file here]
 ```
+###### Here is a photo of an example output
+![](terrain.png)
